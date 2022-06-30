@@ -7,8 +7,8 @@
   "author": "Maxlinn <maxlinn@foxmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "vuepress dev .",
-    "build": "vuepress build ."
+    "dev": "vuepress dev",
+    "build": "vuepress build"
   },
   "devDependencies": {
     "vuepress": "^1.9.7"
