@@ -1,7 +1,8 @@
-# 北京邮电大学本科招生宣传（非官方）
+# 北京邮电大学本科招生宣传
+
+* 这是由学生自发组织整理的北京邮电大学招生信息，可供您参考，官方招生办请访问[https://zsb.bupt.edu.cn](https://zsb.bupt.edu.cn).
 
 <center><img src="./README.assets/EE902059AE32E0E6325EFEE8F46_B2D41D06_CD58.png" alt="img" style="zoom:100%;" /></center>
-
 
 
 ## 如何参与到编辑中？
