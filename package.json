@@ -1,0 +1,16 @@
+{
+  "name": "BUPT-Enrolling-2022",
+  "version": "1.0.0",
+  "description": "Unofficial site for BUPT undergraduate enrolling",
+  "main": "index.js",
+  "repository": "https://github.com/Maxlinn/BUPT-Enrolling-2022",
+  "author": "Maxlinn <maxlinn@foxmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev .",
+    "build": "vuepress build ."
+  },
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}
